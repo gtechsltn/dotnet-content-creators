@@ -1,3 +1,7 @@
+# .NET Content Creators
++ https://github.com/matthiasjost/dotnet-content-creators
++ https://github.com/gtechsltn/dotnet-content-creators/
+
 # :zap: My Favourite .NET Content Creators
 
 Please also see [WeAreDotnet](https://www.WeAreDotnet.io), a community for .NET content creators (founded by Tim [@TimCadenbach](https://twitter.com/TimCadenbach) and Matthias [@jost0101](https://twitter.com/jost0101))
